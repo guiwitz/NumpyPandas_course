@@ -1,0 +1,17 @@
+name: data_analytics
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - jupyter
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - tqdm
+  - seaborn
+  - pip
+  - pip:
+    - plotnine
+    - xlrd
