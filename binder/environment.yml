@@ -12,6 +12,8 @@ dependencies:
   - tqdm
   - seaborn
   - pip
+  - nodejs
+  - ipywidgets
   - pip:
     - plotnine
     - xlrd
