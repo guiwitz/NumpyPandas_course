@@ -6,7 +6,7 @@ dependencies:
   - scikit-learn
   - pandas
   - jupyter
-  - jupyterlab
+  - jupyterlab=1.2.*
   - jupyter_contrib_nbextensions
   - tqdm
   - seaborn
