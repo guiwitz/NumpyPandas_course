@@ -4,6 +4,7 @@ dependencies:
   - numpy
   - matplotlib
   - scikit-learn
+  - scikit-image
   - pandas
   - jupyter
   - jupyterlab=1.2.*
