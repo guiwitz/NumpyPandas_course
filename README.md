@@ -45,7 +45,7 @@ For a local installation, we recommend using conda to create a specific environm
 2. Open a terminal and move to the ```NumpyPandas_course-master/binder``` folder
 3. Here you find an ```environment.yml``` file that you can use to create a conda environment. Choose an environment name e.g. ```numpypandas``` and type:
    ```
-   conda env create -n numypandas -f environment.yml
+   conda env create -n numpypandas -f environment.yml
    ```
 4. When you want to run the material, activate the environment and start jupyter:
    ```
